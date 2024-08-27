@@ -13,7 +13,7 @@ ul {
 ul li {
     border: 1px solid grey;
     border-radius: 5%;
-    width; calc(var(--sprite-width) / 3);
+    width: calc(var(--sprite-width) / 3);
     height: var(--sprite-height);
     list-style: none;
     text-align: center;
